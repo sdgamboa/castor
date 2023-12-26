@@ -1,6 +1,7 @@
 # castor (copy from CRAN)
 
 This is a (modified) copy from CRAN: https://cran.r-project.org/web/packages/castor/index.html
+OR https://cran.r-project.org/package=castor
 
 I got this copy from source code.
 
