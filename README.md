@@ -11,4 +11,4 @@ I'm not related to the authors or their work.
 
 Just created this copy to try things.
 
-Check the packages's original license.
+Check the license.
